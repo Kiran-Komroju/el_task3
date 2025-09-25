@@ -5,6 +5,7 @@ This repository demonstrates how to **provision a local Docker container using T
 ## 📂 Repository Structure
 
 el_task3/
+
 ├── main.tf          # Terraform configuration for Docker container
 ├── init.log         # Terraform init execution log
 ├── plan.log         # Terraform plan execution log
