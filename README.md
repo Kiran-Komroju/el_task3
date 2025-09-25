@@ -51,8 +51,8 @@ terraform destroy -auto-approve | tee destroy.log
   1. Configure Git:
 
   ```bash
-  git config --global user.name "Your Name"
-  git config --global user.email "your_email@example.com"
+  git config --global user.name "kiran komroju"
+  git config --global user.email "komrojukiran@gmail.com"
   ```
 
   2. Use **Personal Access Token** as password to push the files to repo.
